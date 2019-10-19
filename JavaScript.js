@@ -3,7 +3,7 @@
 使用 document.write() 写入 HTML 输出
 使用 innerHTML 写入 HTML 元素
 使用 console.log() 写入浏览器控制台
-
+所有 JavaScript 标识符对大小写敏感。
 
 
 <!------------------>
